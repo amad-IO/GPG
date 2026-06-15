@@ -17,10 +17,6 @@ FILE YANG DIBERIKAN:
   1. pesan_terenkripsi.asc  → File terenkripsi (target)
   2. kunci_misterius.asc    → Kunci yang ditemukan
 
-TUGAS:
-──────
-Gunakan kedua file di atas untuk mendekripsi pesan
-dan temukan FLAG yang tersembunyi di dalamnya.
 
 Format flag: FLAG{...}
 
