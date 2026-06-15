@@ -1,0 +1,31 @@
+╔══════════════════════════════════════════════════════════╗
+║           PRAKTIKUM CTF — KEAMANAN SISTEM                ║
+║                  Soal: "Pesan Misterius"                 ║
+╚══════════════════════════════════════════════════════════╝
+
+SKENARIO:
+─────────
+Kamu adalah anggota tim keamanan di sebuah perusahaan.
+Seorang karyawan menemukan sebuah file mencurigakan bernama
+"pesan_terenkripsi.asc" di server internal, beserta sebuah
+file bernama "kunci_misterius.asc".
+
+Tugasmu: Cari tahu isi pesan tersembunyi di dalam file itu!
+
+FILE YANG DIBERIKAN:
+────────────────────
+  1. pesan_terenkripsi.asc  → File terenkripsi (target)
+  2. kunci_misterius.asc    → Kunci yang ditemukan
+
+TUGAS:
+──────
+Gunakan kedua file di atas untuk mendekripsi pesan
+dan temukan FLAG yang tersembunyi di dalamnya.
+
+Format flag: FLAG{...}
+
+PETUNJUK TOOLS:
+───────────────
+  Gunakan GPG (GNU Privacy Guard) untuk menyelesaikan tantangan ini.
+
+SUBMIT FLAG ke: [isi sesuai platform CTF kalian]
